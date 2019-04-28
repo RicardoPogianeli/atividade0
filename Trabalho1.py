@@ -26,7 +26,7 @@ for i in range(1, escolha):
 
 
 
-
+#print(nome)
 
 
 
