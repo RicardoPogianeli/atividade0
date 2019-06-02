@@ -1,43 +1,26 @@
+lista_num =[]
+for num in range(1,20):
+   lista_num.append(int(input("Digite um número")))
+print (lista_num)
 
-def menu():
-    print("1 = Soma")
-    print("2 = Subtração")
-    print("3 = Divisão")
-    print("4 = Multiplicação")
+# Crie uma função que receba o vetor preenchido e substitua todas as ocorrências de valores negativos por 0, as de valores menores do que 10 por 1 e as demais por 2.
 
-    opcao = int(input("Digite o valor wscolhido do menu"))
-    return opcao
+def numero_negativo(lista):
+   negativo = []
+   for item in lista:
+      if item < 0:
+         negativo.append(0)
+      elif item < 10:
+         negativo.append(1)
+      else:
+         negativo.append(2)
 
-def soma():
-    a = int (input("Digite o primeiro valor"))
-    b = int (input("Digite o segundo valor"))
+   return negativo
 
-    result = a+b
-    return result
-
-def subtracao(a,b):
-   return a-b
-
-def divisao(a,b):
-   return a/b
-
-def multipicacao(a,b):
-   return a*b
+print(numero_negativo(lista_num))
 
 
-opc = menu()
-if (opc == 1 ):
-    print("O valor da soma é:", soma())
-elif (opc == 2):
-    a = int (input("Digite o primeiro valor"))
-    b = int (input("Digite o segundo valo"))
-    print("O valor da subtração é", subtracao(a,b))
-elif (opc == 3):
-    a = int (input("Digite o primeiro valor"))
-    b = int (input("Digite o segundo valo"))
-    print("O valor da Divisão é", divisao(a,b))
-elif (opc == 4):
-    a = int (input("Digite o primeiro valor"))
-    b = int (input("Digite o segundo valo"))
-    print("O valor da Multiplicação é", multipicacao(a,b))
+
+
+
 

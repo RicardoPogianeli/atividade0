@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="116c3124-bc3f-4e1e-88b7-9ec59a09e50b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Funcao_paramentros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funcao_parametros" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funcao_parametros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jogo_jokenpo1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista_numeros_primos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_numeros_primos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funcao_paramentros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funcao_parametros" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funcao_parametros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Funcao_parametros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vetor.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +22,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Funcao_parametros.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="21" lean-forward="true" selection-end-line="21" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -30,19 +35,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Funcao_paramentros.py">
+        <entry file="file://$PROJECT_DIR$/Trabalho1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="272">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lista_numeros_primos.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lista_numeros_primos.py">
+        <entry file="file://$PROJECT_DIR$/Jogo_jokenpo1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -67,13 +81,16 @@
         <option value="$PROJECT_DIR$/Trabalho1.py" />
         <option value="$PROJECT_DIR$/Funcao_parametros.py" />
         <option value="$PROJECT_DIR$/Funcao_parametros" />
-        <option value="$PROJECT_DIR$/Funcao_paramentros.py" />
         <option value="$PROJECT_DIR$/Lista_numeros_primos.py" />
+        <option value="$PROJECT_DIR$/Vetor.py" />
+        <option value="$PROJECT_DIR$/Funcao_paramentros.py" />
+        <option value="$PROJECT_DIR$/Jogo_jokenpo1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="668" />
+    <option name="x" value="662" />
+    <option name="y" value="3" />
     <option name="width" value="701" />
     <option name="height" value="688" />
   </component>
@@ -126,28 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Lista_numeros_primos">
-    <configuration name="Funcao_paramentros" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="atividade0" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funcao_paramentros.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Jogo_jokenpo1">
     <configuration name="Funcao_parametros" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="atividade0" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,6 +157,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funcao_parametros.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Jogo_jokenpo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="atividade0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jogo_jokenpo1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,11 +228,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.Jogo_jokenpo1" />
+      <item itemvalue="Python.Funcao_parametros" />
+      <item itemvalue="Python.Lista_numeros_primos" />
+      <item itemvalue="Python.Trabalho1" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lista_numeros_primos" />
-        <item itemvalue="Python.Funcao_paramentros" />
+        <item itemvalue="Python.Jogo_jokenpo1" />
         <item itemvalue="Python.Funcao_parametros" />
+        <item itemvalue="Python.Lista_numeros_primos" />
         <item itemvalue="Python.Trabalho1" />
       </list>
     </recent_temporary>
@@ -238,7 +261,21 @@
       <option name="project" value="LOCAL" />
       <updated>1558633287384</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercício PUCPR Números Primos e função &quot; Ajuste de erro.&quot;">
+      <created>1559505078502</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559505078503</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercício PUCPR Função &quot;Substituição de Números&quot;">
+      <created>1559506990586</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559506990586</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -254,19 +291,19 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4974359" visible="true" weight="0.07068452" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4974359" visible="true" weight="0.18080357" />
       <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.0708899" />
       <window_info id="Favorites" order="2" sideWeight="0.50256413" side_tool="true" weight="0.0708899" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31587562" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49925596" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.39934534" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.36006546" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -275,7 +312,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercício PUCPR Números Primos e função" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício PUCPR Números Primos e função" />
+    <MESSAGE value="Exercício PUCPR Números Primos e função &quot; Ajuste de erro.&quot;" />
+    <MESSAGE value="Exercício PUCPR Função &quot;Substituição de Números&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício PUCPR Função &quot;Substituição de Números&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Jogo_jokenpo1.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="quantidade_jogo" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>quantidade_jogo</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
@@ -300,30 +364,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Trabalho1.py">
+    <entry file="file://$PROJECT_DIR$/Vetor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-end-line="14" />
+        <state relative-caret-position="493">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funcao_paramentros.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Funcao_parametros.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="21" lean-forward="true" selection-end-line="21" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Calculadora.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Funcao_paramentros.py">
+    <entry file="file://$PROJECT_DIR$/Trabalho1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="272">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lista_numeros_primos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jogo_jokenpo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
